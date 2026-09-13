@@ -1,0 +1,15 @@
+# Nunca suba suas credenciais reais
+.env
+
+# Snapshots capturados pelo assistente
+snapshots/
+
+# Região do portão (específica de cada instalação/câmera)
+roi.json
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
